@@ -1,3 +1,5 @@
+:: seattle public schools / high schools ::
+
 20730: skills center / 2445 3rd avenue s
 21000: ballard high school / 1418 nw 65th street
 22200: seattle world school / 1700 e union street
@@ -17,3 +19,9 @@
 29900: middle college / 520 ne ravenna boulevard
 32500: lincoln high school / 4400 interlake avenue n
 33930: interagency academy / 3528 s ferdinand street
+
+:: seattle public schools / middle schools ::
+
+:: seattle public schools / k-8 schools ::
+
+:: seattle public schools / elementary schools ::
