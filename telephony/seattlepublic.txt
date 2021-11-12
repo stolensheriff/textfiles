@@ -1,1 +1,19 @@
-26600:
+20730: skills center / 2445 3rd avenue s
+21000: ballard high school / 1418 nw 65th street
+22200: seattle world school / 1700 e union street
+22270: garfield high school / 400 23rd avenue
+23500: nova / 2410 e cherry street
+23680: nathan hale high school / 10750 30th avenue ne
+23880: ingraham high school / 1819 n 135th street
+24700: john marshall alternative high school / 520 ne ravenna boulevard
+24810: roosevelt high school / 1410 ne 66th street
+26150: franklin high school / 3013 s mount baker boulevard
+26350: rainier beach high school / 8815 seward park avenue s
+26600: alan t sugiyama high school / 8601 rainier avenue s
+27800: cleveland high school / 5511 15th avenue s
+28550: chief sealth international high school / 2600 sw thistle street
+28850: west seattle high school / 3000 california avenue sw
+29850: the center school / 305 harrison street
+29900: middle college / 520 ne ravenna boulevard
+32500: lincoln high school / 4400 interlake avenue n
+33930: interagency academy / 3528 s ferdinand street
