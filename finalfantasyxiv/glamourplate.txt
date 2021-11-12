@@ -1,0 +1,17 @@
+:: final fantasy xiv / glamour plates ::
+
+01: dark knight / paladin / warrior
+02: gunbreaker
+03: astrologian / scholar
+04: sage
+05: white mage
+06: dragoon
+07: reaper
+08: monk / ninja
+09: samurai
+10: bard / machinist
+11: dancer
+12: black mage / summoner
+13: blue mage
+14: red mage
+15:
