@@ -7,15 +7,15 @@ dragoon / monk / reaper / samurai
 dancer / machinist
 red mage / summoner / blue mage
 
-01: leveling
-02: astrologian
-03: ninja
-04: bard
-05: black mage
-06:
-07:
-08:
-09:
+01: tank leveling
+02: healer leveling
+03: melee leveling
+04: physical leveling
+05: magic leveling
+06: astrologian
+07: ninja
+08: bard
+09: black mage
 10:
 11:
 12:
