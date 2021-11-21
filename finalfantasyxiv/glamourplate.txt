@@ -1,6 +1,6 @@
 :: final fantasy xiv / glamour plates ::
 
-90 job gear:
+90 af job gear:
 dark knight / gunbreaker / paladin / warrior
 sage / scholar / white mage
 dragoon / monk / reaper / samurai
