@@ -7,14 +7,14 @@ dragoon / monk / reaper / samurai
 dancer / machinist
 red mage / summoner / blue mage
 
-01: tank leveling
-02: healer leveling
-03: melee leveling
-04: physical leveling
-05: magic leveling
-06:
-07:
-08:
+01: crafting
+02: botanist / miner
+03: fisher
+04: tank leveling
+05: healer leveling
+06: melee leveling
+07: phycical leveling
+08: magic leveling
 09:
 10:
 11:
