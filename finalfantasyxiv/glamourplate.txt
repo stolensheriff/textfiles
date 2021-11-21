@@ -1,17 +1,27 @@
 :: final fantasy xiv / glamour plates ::
 
-01: dark knight / paladin / warrior
-02: gunbreaker
-03: astrologian / scholar
-04: sage
-05: white mage
-06: dragoon
-07: reaper
-08: monk / ninja
-09: samurai
-10: bard / machinist
-11: dancer
-12: black mage / summoner
-13: blue mage
-14: red mage
+90 job gear:
+dark knight / gunbreaker / paladin / warrior
+sage / scholar / white mage
+dragoon / monk / reaper / samurai
+dancer / machinist
+red mage / summoner / blue mage
+
+01: leveling
+02: astrologian
+03: ninja
+04: bard
+05: black mage
+06:
+07:
+08:
+09:
+10:
+11:
+12:
+13:
+14:
 15:
+
+crafter
+gatherer
