@@ -1,8 +1,0 @@
-:: gearing main ::
-dancer
-
-tank: dark knight
-healer: sage
-melee: samurai
-pranged: dancer
-mranged: red mage
